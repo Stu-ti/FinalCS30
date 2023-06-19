@@ -47,7 +47,7 @@ updated - version history
 updated - description of the game
 
 v3.0
-Name: Space_Invaders_Game
+Name: Space_Invaders
 added - date of submission
 added - highscore function and its display
 added - score function and its display
